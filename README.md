@@ -31,3 +31,19 @@ This project performs basic arithmetic operations with a clean and interactive i
 1. Make sure Python is installed  
    ```bash
    python --version
+
+2. Clone this repository or download the source code
+   ```bash
+   git clone https://github.com/your-username/tkinter-calculator.git
+
+3. Navigate to the project directory
+   ```bash
+   cd tkinter-calculator
+
+4. Run the application
+   ```bash
+   python calculator.py
+
+
+
+
